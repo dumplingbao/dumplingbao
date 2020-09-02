@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 ### 👀 Active Repo
 
 <p>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
-    <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
 </p>
 
 
@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 ### 🙈 statistics
 
 <p>
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
 </p>
 
 
