@@ -6,7 +6,7 @@
 <p align="center">
   <i><b>请欣赏动态美景，刷新即可</b></i>
 
-![test](https://api.lyiqk.cn/purelady?cdd6a546)
+![test](https://api.lyiqk.cn/purelady)
 
 
 
@@ -36,14 +36,11 @@
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=davinci&theme=radical" />
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dumplingbao&repo=metabase&theme=radical" />
 </p>
-
 ### 🙈 statistics
-<br />
 <p>
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=dumplingbao&&show_icons=true&theme=radical&line_height=27&v=5&count_private=true" alt="dumplingbao's GitHub Stats" />
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumplingbao&theme=radical&layout=compact&hide=glsl,python" />
 </p>
-
 ### 🌱 Connect Me
 ![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)[![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/9877ae06aeaa)[![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://dumplingbao.github.io/)[![Mail](https://img.shields.io/badge/-bmm_java@163.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:bmm_java@163.com)
 
