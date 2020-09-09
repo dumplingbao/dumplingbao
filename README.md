@@ -4,7 +4,7 @@
 
 <hr>
 <p align="center">
-  <i><b>请欣赏动态美景，刷新即可</b></i>
+  <i><b>请欣赏动态美景</b></i>
 
 ![必应每日一图](https://api.lyiqk.cn/bing/)
 
