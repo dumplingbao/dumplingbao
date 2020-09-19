@@ -6,9 +6,6 @@
 <p align="center">
   <i><b>请欣赏动态美景</b></i>
 
-![必应每日一图](https://api.lyiqk.cn/bing/)
-
-
 
 <img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
 
